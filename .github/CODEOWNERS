@@ -1,0 +1,18 @@
+# Review ownership for textconvo-api-examples
+# Template and guidance: https://github.com/textconvo/.github/blob/main/CODEOWNERS
+
+*                       @textconvo
+
+*.md                    @textconvo
+/docs/                  @textconvo
+/.github/               @textconvo
+
+/examples/curl/         @textconvo
+/examples/javascript/   @textconvo
+/examples/typescript/   @textconvo
+/examples/node/         @textconvo
+/examples/python/       @textconvo
+/examples/go/           @textconvo
+/examples/java/         @textconvo
+/examples/csharp/       @textconvo
+/examples/php/          @textconvo
