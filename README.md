@@ -132,6 +132,12 @@ A 202 with an ingestion request id means the lead is queued and the journey will
 | [textconvo-sample-apps](https://github.com/textconvo/textconvo-sample-apps) | Full demo applications |
 | [awesome-textconvo](https://github.com/textconvo/awesome-textconvo) | Community tutorials and projects |
 
+## See it live
+
+Submit the [contact form](https://textconvo.ai/contact-us) and you get a direct line to **Ria**, the TextConvo AI orchestrator &mdash; call her for a live voice demo, or text her and watch the SMS AI reply in real time. A human follows up within one business day, and the same form is how API credentials, a source key, and a webhook secret are issued.
+
+Handed a TextConvo QR code at an event or in a demo? Scanning it opens the same conversation. The form is simply the path that works for everyone.
+
 ## Contributing
 
 We would love a better example than ours. Read [CONTRIBUTING.md](https://github.com/textconvo/.github/blob/main/CONTRIBUTING.md), then open an issue or a pull request. Good first contributions: a framework variant, a clearer error message, a missing runtime version.
