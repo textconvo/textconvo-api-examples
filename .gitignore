@@ -1,0 +1,41 @@
+# Secrets — never commit these
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Node
+node_modules/
+dist/
+*.tsbuildinfo
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Go
+bin/
+*.exe
+
+# Java
+target/
+*.class
+
+# .NET
+bin/
+obj/
+
+# PHP
+vendor/
+composer.lock
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
